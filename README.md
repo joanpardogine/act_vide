@@ -4,22 +4,21 @@ _Prova de redme github_
 
 ## cine activitat vladi  🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_L'activitat s'ha de lliurar en las dos proximas setmanes._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+ **Tickets weebs** es obligatori en la weeb 
 
+### Apunts 📋
 
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
+_he de crear un carousell al pñrincipa de la weeb _
 
 ```
-Da un ejemplo
+posar caixes de text 
 ```
 
-### Instalación 🔧
+### home 📌
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_inicio de sesion_
 
-_Dí cómo será ese paso_
+_venta de tickets_
 
