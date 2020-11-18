@@ -10,7 +10,7 @@ _L'activitat s'ha de lliurar en las dos proximas setmanes._
 
 ### Apunts 📋
 
-_he de crear un carousell al principi de la weeb _
+_he de crear un carousell al principi de la weeb_
 
 ```
 posar caixes de text 
